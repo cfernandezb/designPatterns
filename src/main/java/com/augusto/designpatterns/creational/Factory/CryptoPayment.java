@@ -1,4 +1,4 @@
-package com.augusto.designpatterns.Factory;
+package com.augusto.designpatterns.creational.Factory;
 
 public class CryptoPayment implements Payment {
     @Override

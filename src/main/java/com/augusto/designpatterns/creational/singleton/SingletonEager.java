@@ -1,4 +1,4 @@
-package com.augusto.designpatterns.singleton;
+package com.augusto.designpatterns.creational.singleton;
 
 public class SingletonEager {
     private static final SingletonEager instance = new SingletonEager();

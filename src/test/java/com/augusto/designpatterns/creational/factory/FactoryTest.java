@@ -1,6 +1,6 @@
-package com.augusto.designpatterns.factory;
+package com.augusto.designpatterns.creational.factory;
 
-import com.augusto.designpatterns.Factory.*;
+import com.augusto.designpatterns.creational.Factory.*;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

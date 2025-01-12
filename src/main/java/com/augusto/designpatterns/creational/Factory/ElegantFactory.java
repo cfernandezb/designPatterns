@@ -1,4 +1,4 @@
-package com.augusto.designpatterns.Factory;
+package com.augusto.designpatterns.creational.Factory;
 
 import java.util.HashMap;
 import java.util.Map;

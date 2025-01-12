@@ -1,5 +1,8 @@
-package com.augusto.designpatterns.singleton;
+package com.augusto.designpatterns.creational.singleton;
 
+import com.augusto.designpatterns.creational.singleton.Singleton;
+import com.augusto.designpatterns.creational.singleton.SingletonEager;
+import com.augusto.designpatterns.creational.singleton.SingletonThreadSafe;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashSet;
